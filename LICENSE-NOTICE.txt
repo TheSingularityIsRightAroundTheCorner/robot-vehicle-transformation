@@ -1,0 +1,3 @@
+Project-specific robot design and demo code: all rights reserved.
+No additional license is granted for these materials.
+Third-party runtime: Three.js r149, MIT; see vendor/THREE-LICENSE.txt.
