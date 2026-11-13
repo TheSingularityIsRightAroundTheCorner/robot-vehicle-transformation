@@ -1,0 +1,6215 @@
+{
+  "mode": "all",
+  "qa": {
+    "deterministic": true,
+    "stableNodeCount": true,
+    "lowFlightClear": true,
+    "robotSharesScene": true,
+    "wakeSharesScene": true,
+    "deckClearance": 48.71927254248578,
+    "wakeAlpha": true,
+    "webglError": 0
+  },
+  "records": [
+    {
+      "shot": "op_final",
+      "time": 0,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -380,
+        45,
+        -650
+      ],
+      "bounds": {
+        "min": [
+          -434.69006583543626,
+          41.74508890374893,
+          -667.722026210443
+        ],
+        "max": [
+          -312.0975949225896,
+          164.7708228148665,
+          -600.8189162148644
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 0,
+        "time": 0,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 464,
+      "triangles": 127448
+    },
+    {
+      "shot": "op_final",
+      "time": 1.55,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -110,
+        128,
+        35
+      ],
+      "bounds": {
+        "min": [
+          -162.31959173426125,
+          124.71927254248578,
+          16.83777759685415
+        ],
+        "max": [
+          -40.81695801239249,
+          249.13395269050866,
+          84.66346584595242
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.55,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 2.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.6284430839981098,
+      "robotPosition": [
+        19.855667134578702,
+        19.71234207968902,
+        426.88262606629957
+      ],
+      "bounds": {
+        "min": [
+          -22.872461155965627,
+          7.570801590353176,
+          409.1873923230087
+        ],
+        "max": [
+          94.71538255995863,
+          126.35764292268516,
+          510.5998359336423
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 9,
+        "time": 2.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 3.8,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        313.43245489078816,
+        18.90923224858665,
+        883.9271723646723
+      ],
+      "bounds": {
+        "min": [
+          291.17315073260727,
+          6.000000000000004,
+          861.7877666014994
+        ],
+        "max": [
+          410.86445900435723,
+          113.33381703332736,
+          979.9453648156057
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 28,
+        "time": 3.8,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 4.8,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        611.5507692307691,
+        18.862924778720778,
+        1215.9076923076923
+      ],
+      "bounds": {
+        "min": [
+          590.8785466042781,
+          6.000000000000002,
+          1192.2500955908422
+        ],
+        "max": [
+          711.0377356137759,
+          113.73970217041162,
+          1309.8063114029164
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.8,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.8831447367006,
+        155.1557541908856,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 5.3,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        811.3007407407407,
+        19.19078748711182,
+        1410.9244444444444
+      ],
+      "bounds": {
+        "min": [
+          789.954296241732,
+          5.999999999999998,
+          1387.90064728777
+        ],
+        "max": [
+          907.8451038034235,
+          112.51455617764627,
+          1508.0750877774806
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.3,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        851.6692221240471,
+        154.81278443325948,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "hero_hover",
+      "time": 1.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.02,
+      "robotPosition": [
+        490,
+        78.35280002014967,
+        110
+      ],
+      "bounds": {
+        "min": [
+          424.40553645508237,
+          77.7404473423925,
+          85.46824650216563
+        ],
+        "max": [
+          548.767371684006,
+          198.82197258672036,
+          144.5937077114089
+        ]
+      },
+      "wake": {
+        "enabled": false,
+        "activeSamples": 3,
+        "time": 1.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        840,
+        205,
+        670
+      ],
+      "layer": "beauty",
+      "calls": 434,
+      "triangles": 126344
+    },
+    {
+      "shot": "op_final",
+      "time": 3.8,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        313.43245489078816,
+        18.90923224858665,
+        883.9271723646723
+      ],
+      "bounds": {
+        "min": [
+          291.17315073260727,
+          6.000000000000004,
+          861.7877666014994
+        ],
+        "max": [
+          410.86445900435723,
+          113.33381703332736,
+          979.9453648156057
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 28,
+        "time": 3.8,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "robot",
+      "calls": 372,
+      "triangles": 6708
+    },
+    {
+      "shot": "op_final",
+      "time": 3.8,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        313.43245489078816,
+        18.90923224858665,
+        883.9271723646723
+      ],
+      "bounds": {
+        "min": [
+          291.17315073260727,
+          6.000000000000004,
+          861.7877666014994
+        ],
+        "max": [
+          410.86445900435723,
+          113.33381703332736,
+          979.9453648156057
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 28,
+        "time": 3.8,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "wake",
+      "calls": 8,
+      "triangles": 506
+    },
+    {
+      "shot": "op_final",
+      "time": 3.8,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        313.43245489078816,
+        18.90923224858665,
+        883.9271723646723
+      ],
+      "bounds": {
+        "min": [
+          291.17315073260727,
+          6.000000000000004,
+          861.7877666014994
+        ],
+        "max": [
+          410.86445900435723,
+          113.33381703332736,
+          979.9453648156057
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 28,
+        "time": 3.8,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "environment",
+      "calls": 9,
+      "triangles": 58052
+    },
+    {
+      "shot": "op_final",
+      "time": 3.8,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        313.43245489078816,
+        18.90923224858665,
+        883.9271723646723
+      ],
+      "bounds": {
+        "min": [
+          291.17315073260727,
+          6.000000000000004,
+          861.7877666014994
+        ],
+        "max": [
+          410.86445900435723,
+          113.33381703332736,
+          979.9453648156057
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 28,
+        "time": 3.8,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "bridge",
+      "calls": 83,
+      "triangles": 62688
+    },
+    {
+      "shot": "op_final",
+      "time": 0,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -380,
+        45,
+        -650
+      ],
+      "bounds": {
+        "min": [
+          -434.69006583543626,
+          41.74508890374893,
+          -667.722026210443
+        ],
+        "max": [
+          -312.0975949225896,
+          164.7708228148665,
+          -600.8189162148644
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 0,
+        "time": 0,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 464,
+      "triangles": 127448
+    },
+    {
+      "shot": "op_final",
+      "time": 0.041666666666666664,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -374.0362110930015,
+        45.654316224660874,
+        -632.4436740174508
+      ],
+      "bounds": {
+        "min": [
+          -428.3779589531466,
+          42.426006231816885,
+          -650.1065855801758
+        ],
+        "max": [
+          -305.8909664640197,
+          165.72756566813536,
+          -583.5016609051819
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 1,
+        "time": 0.041666666666666664,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 464,
+      "triangles": 127448
+    },
+    {
+      "shot": "op_final",
+      "time": 0.08333333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -368.17125430001,
+        47.53391251333638,
+        -614.9528391947857
+      ],
+      "bounds": {
+        "min": [
+          -422.15134005726634,
+          44.33205270781762,
+          -632.5685928112958
+        ],
+        "max": [
+          -299.7826419055663,
+          167.90466904182728,
+          -566.2204642457182
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 1,
+        "time": 0.08333333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 464,
+      "triangles": 127448
+    },
+    {
+      "shot": "op_final",
+      "time": 0.125,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -362.38918895747605,
+        50.513760288065846,
+        -597.5169324417009
+      ],
+      "bounds": {
+        "min": [
+          -415.9969091684331,
+          47.33805036940942,
+          -615.0977975882985
+        ],
+        "max": [
+          -293.7579093128579,
+          171.1755050943003,
+          -548.9640180932458
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 2,
+        "time": 0.125,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.16666666666666666,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -356.67407440185,
+        54.46883097088858,
+        -580.1253906678926
+      ],
+      "bounds": {
+        "min": [
+          -409.90137897845693,
+          51.27305495377056,
+          -597.6838754005083
+        ],
+        "max": [
+          -287.8020911416296,
+          175.41353560072434,
+          -531.7212184709947
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 2,
+        "time": 0.16666666666666666,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.20833333333333334,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -351.0099699695824,
+        59.27409598384393,
+        -562.7676507830565
+      ],
+      "bounds": {
+        "min": [
+          -403.8514527002167,
+          55.95534049210674,
+          -580.3164237372132
+        ],
+        "max": [
+          -281.90054041206525,
+          180.4923177826385,
+          -514.4811616410813
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.20833333333333334,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.25,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -345.38093499712375,
+        64.8045267489712,
+        -545.4331496968892
+      ],
+      "bounds": {
+        "min": [
+          -397.8338025175076,
+          61.36638559632062,
+          -562.9849593322167
+        ],
+        "max": [
+          -276.03863613574237,
+          186.285508433737,
+          -497.23313737457346
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 0.25,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.2916666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -339.7710288209245,
+        70.9350946883097,
+        -528.1113243190865
+      ],
+      "bounds": {
+        "min": [
+          -391.83504886011247,
+          67.38183413758371,
+          -545.6789165061455
+        ],
+        "max": [
+          -270.20177786133763,
+          192.66686639821364,
+          -479.96661970428545
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.2916666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.3333333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -334.1643107774353,
+        77.54077122389879,
+        -510.7916115593446
+      ],
+      "bounds": {
+        "min": [
+          -385.84174069247075,
+          73.87730522513944,
+          -528.3876466311059
+        ],
+        "max": [
+          -264.37537923333883,
+          199.51025349400035,
+          -462.67125550102344
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.3333333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.375,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -328.5448402031063,
+        84.49652777777777,
+        -493.4634483273596
+      ],
+      "bounds": {
+        "min": [
+          -379.84033696847166,
+          80.72838954410648,
+          -511.1004187190518
+        ],
+        "max": [
+          -258.5448604938666,
+          206.6896340064543,
+          -445.33685125647344
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 0.375,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.4166666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -322.8966764343883,
+        91.67733577198598,
+        -476.1162715328277
+      ],
+      "bounds": {
+        "min": [
+          -373.8171893718704,
+          87.81064589339354,
+          -493.8064211130402
+        ],
+        "max": [
+          -252.6956398999574,
+          214.07907290762344,
+          -427.95335848461485
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.4166666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.4583333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -317.20387880773154,
+        98.95816662856272,
+        -458.7395180854447
+      ],
+      "bounds": {
+        "min": [
+          -367.75852643287396,
+          94.99959794214698,
+          -476.4947642397317
+        ],
+        "max": [
+          -246.81312407559628,
+          221.5527329813763,
+          -410.51085816827145
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.4583333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -311.4505066595867,
+        106.21399176954733,
+        -441.3226248949069
+      ],
+      "bounds": {
+        "min": [
+          -361.6791000613985,
+          102.17073121994378,
+          -459.1544843623692
+        ],
+        "max": [
+          -240.8826973673651,
+          228.98487105477622,
+          -392.9995446785293
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.5416666666666666,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -305.62061932640415,
+        113.31978261697911,
+        -423.85502887091036
+      ],
+      "bounds": {
+        "min": [
+          -355.5219489448702,
+          109.19949035279913,
+          -441.79650491848815
+        ],
+        "max": [
+          -234.8897103225467,
+          236.24983355059626,
+          -375.4097095830453
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.5416666666666666,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.5833333333333334,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -299.69827614463435,
+        120.15051059289742,
+        -406.3261669231513
+      ],
+      "bounds": {
+        "min": [
+          -349.2687229018519,
+          115.96127655409767,
+          -424.6304410375294
+        ],
+        "max": [
+          -228.81946745650333,
+          243.22205158445004,
+          -357.7317257357739
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 0.5833333333333334,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.625,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -293.66753645072794,
+        126.58114711934157,
+        -388.72547596132574
+      ],
+      "bounds": {
+        "min": [
+          -342.9049966985046,
+          122.33144537687069,
+          -407.4163011220847
+        ],
+        "max": [
+          -222.6572145197086,
+          249.7760358324558,
+          -339.9560320067297
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.625,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.6666666666666666,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -287.51245958113515,
+        132.48666361835086,
+        -371.04239289512964
+      ],
+      "bounds": {
+        "min": [
+          -336.4401661490929,
+          128.18530473150767,
+          -390.14140690057417
+        ],
+        "max": [
+          -216.3881255116692,
+          255.7863713916232,
+          -322.0731189675742
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.6666666666666666,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.7083333333333334,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -281.2171048723067,
+        137.74203151196463,
+        -353.2663546342595
+      ],
+      "bounds": {
+        "min": [
+          -329.87068436828196,
+          133.39811317106665,
+          -372.7928873208922
+        ],
+        "max": [
+          -209.9972897170643,
+          261.1277128453865,
+          -304.0735157987664
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.7083333333333334,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.75,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -274.765531660693,
+        142.22222222222223,
+        -335.38679808841096
+      ],
+      "bounds": {
+        "min": [
+          -323.16481685103304,
+          137.84507844486487,
+          -355.35770315511684
+        ],
+        "max": [
+          -203.4696990570857,
+          265.67477973119236,
+          -285.9477786285415
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.75,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.7916666666666666,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -268.1417992827445,
+        145.80220717116293,
+        -317.3931601672807
+      ],
+      "bounds": {
+        "min": [
+          -316.30741538213437,
+          141.4013563199929,
+          -337.8226749449291
+        ],
+        "max": [
+          -196.79023605503983,
+          269.30235258623105,
+          -267.6864804549694
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 0.7916666666666666,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.8333333333333334,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -261.3299670749116,
+        148.3569577808261,
+        -299.274877780564
+      ],
+      "bounds": {
+        "min": [
+          -309.28313414253586,
+          143.94204966979188,
+          -320.1745137548969
+        ],
+        "max": [
+          -189.94366270920727,
+          271.88526972185264,
+          -249.2802027416987
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.8333333333333334,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.875,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -254.31409437364485,
+        149.761445473251,
+        -281.0213878379575
+      ],
+      "bounds": {
+        "min": [
+          -302.0506337605629,
+          145.34220782810957,
+          -302.4683038455171
+        ],
+        "max": [
+          -182.91419736027726,
+          273.29842484762986,
+          -230.67477260270567
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.875,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.9166666666666666,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -247.04173371349043,
+        149.95734924729007,
+        -262.6010575467639
+      ],
+      "bounds": {
+        "min": [
+          -294.33002400208943,
+          145.54353378506931,
+          -285.2464932029161
+        ],
+        "max": [
+          -175.65912916253987,
+          273.4834732100358,
+          -211.46872059344804
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 0.9166666666666666,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 0.9583333333333334,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -239.19463543385885,
+        149.50024444107285,
+        -243.82935720819592
+      ],
+      "bounds": {
+        "min": [
+          -286.0744271228196,
+          145.10157283245567,
+          -267.58493591517623
+        ],
+        "max": [
+          -167.86192050427712,
+          272.99601990757486,
+          -191.96290488784126
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 0.9583333333333334,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -230.77652321592007,
+        148.5980883022303,
+        -224.70853868830585
+      ],
+      "bounds": {
+        "min": [
+          -277.3617118560967,
+          144.22419828058545,
+          -249.3181791248565
+        ],
+        "max": [
+          -159.46860065637523,
+          272.04410602090707,
+          -172.25992621274557
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.0416666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -221.87975921421395,
+        147.32042010148518,
+        -205.29210462736526
+      ],
+      "bounds": {
+        "min": [
+          -268.2807037198016,
+          142.98081198256952,
+          -230.528441375064
+        ],
+        "max": [
+          -150.63151830610298,
+          270.69741027300086,
+          -152.38873886486283
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.0416666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.0833333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -212.59670558328065,
+        145.7367791095602,
+        -185.63355766564612
+      ],
+      "bounds": {
+        "min": [
+          -258.9202759294094,
+          141.4407629867005,
+          -211.29096235532418
+        ],
+        "max": [
+          -141.4343154976831,
+          269.02566948223847,
+          -132.38552713060778
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.0833333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.125,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -203.01972447766016,
+        143.91670459717798,
+        -165.78640044341995
+      ],
+      "bounds": {
+        "min": [
+          -249.36970726520934,
+          139.67334847784352,
+          -191.67525509226817
+        ],
+        "max": [
+          -131.96369449120277,
+          267.09868187628075,
+          -112.2922422658022
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 1.125,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.1666666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -193.24117805189258,
+        141.92973583506128,
+        -145.8041356009586
+      ],
+      "bounds": {
+        "min": [
+          -239.71887090411963,
+          137.74781498591545,
+          -171.74599879813405
+        ],
+        "max": [
+          -122.30866076166129,
+          264.98631111914557,
+          -92.15562129763882
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.1666666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.2083333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -183.35342846051796,
+        139.84541209393282,
+        -125.74026577853387
+      ],
+      "bounds": {
+        "min": [
+          -230.05832578562223,
+          135.73335986236583,
+          -151.56363363151777
+        ],
+        "max": [
+          -112.56006978461619,
+          262.7584908978801,
+          -72.02657853557405
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.2083333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.25,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -173.44883785807625,
+        137.73327264451524,
+        -105.64829361641728
+      ],
+      "bounds": {
+        "min": [
+          -220.47934870796033,
+          133.69913302492066,
+          -131.18470181672546
+        ],
+        "max": [
+          -102.81040418727571,
+          260.485229890158,
+          -51.95990150738892
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.25,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.2916666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -163.61976839910767,
+        135.6628567575313,
+        -85.58172175488087
+      ],
+      "bounds": {
+        "min": [
+          -211.07392350212757,
+          131.71423896976532,
+          -110.66196232573186
+        ],
+        "max": [
+          -93.15374424420199,
+          258.23661691387997,
+          -32.014216237004895
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.2916666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.3333333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -153.95858223815216,
+        133.7037037037037,
+        -65.59405283419622
+      ],
+      "bounds": {
+        "min": [
+          -201.93468698788814,
+          129.84773904880683,
+          -90.04429002202032
+        ],
+        "max": [
+          -83.68078281088592,
+          256.0828260449663,
+          -12.252215476441176
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 1.3333333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.375,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -144.55764152974976,
+        131.92535275375513,
+        -45.738789494635085
+      ],
+      "bounds": {
+        "min": [
+          -193.15481527117,
+          128.16865400768506,
+          -69.37635493084323
+        ],
+        "max": [
+          -74.42513916313591,
+          254.0941214804305,
+          7.25882917055703
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.375,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.4166666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -135.5093084284405,
+        130.39734317840828,
+        -26.06943437646907
+      ],
+      "bounds": {
+        "min": [
+          -184.82781386261172,
+          126.74596677782647,
+          -48.69806317807661
+        ],
+        "max": [
+          -65.53727143074791,
+          252.34086192078138,
+          26.446221452898875
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.4166666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.4583333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -126.90594508876464,
+        129.18921424838584,
+        -6.639490119970361
+      ],
+      "bounds": {
+        "min": [
+          -177.04714570334625,
+          125.64862551311128,
+          -28.043729036322706
+        ],
+        "max": [
+          -57.122537645292816,
+          250.8935042489387,
+          45.23057845174885
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 1.4583333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -118.83991366526203,
+        128.37050523441056,
+        12.497540634589672
+      ],
+      "bounds": {
+        "min": [
+          -169.90558479962033,
+          124.94554685873865,
+          -7.440940628551246
+        ],
+        "max": [
+          -49.28832380348743,
+          249.82260629210086,
+          63.524031911454834
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.5416666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -111.4035763124727,
+        128.01075540720512,
+        31.28815524693934
+      ],
+      "bounds": {
+        "min": [
+          -163.5061527813968,
+          124.70561943671999,
+          13.000723679465956
+        ],
+        "max": [
+          -42.15053320447689,
+          249.1988284681695,
+          81.20434879023492
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.5416666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 1.5833333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18,
+      "robotPosition": [
+        -104.66022387791097,
+        127.29521649929814,
+        49.788839698136705
+      ],
+      "bounds": {
+        "min": [
+          -157.81454774623347,
+          124.11341999102534,
+          32.114369385689926
+        ],
+        "max": [
+          -35.78313617022764,
+          248.20864660082864,
+          98.46066711051924
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.5833333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 1.625,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18061514826337188,
+      "robotPosition": [
+        -98.54682944606414,
+        124.57826166180759,
+        68.19849368318754
+      ],
+      "bounds": {
+        "min": [
+          -152.63910472510906,
+          121.38854806613541,
+          51.08231804753366
+        ],
+        "max": [
+          -30.08382864765987,
+          245.2014414769217,
+          115.76241592795411
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.625,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 1.6666666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.18428325457458947,
+      "robotPosition": [
+        -92.97839506172839,
+        120.07407407407408,
+        86.51748971193416
+      ],
+      "bounds": {
+        "min": [
+          -147.84530639421786,
+          116.79207471497713,
+          69.89658967466389
+        ],
+        "max": [
+          -24.91067041205447,
+          240.3670648032446,
+          133.2835704605486
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 1.6666666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 1.7083333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.1910698208320673,
+      "robotPosition": [
+        -87.87056158442215,
+        114.05344657704353,
+        104.73964144740783
+      ],
+      "bounds": {
+        "min": [
+          -143.36629909199024,
+          110.62285357370857,
+          88.5433002260164
+        ],
+        "max": [
+          -20.16371054359584,
+          233.97355536723646,
+          151.04643526315115
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.7083333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 1.75,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.20076125388880134,
+      "robotPosition": [
+        -83.13896987366375,
+        106.78717201166181,
+        122.85876255264007
+      ],
+      "bounds": {
+        "min": [
+          -139.25140955745027,
+          103.14434651171078,
+          107.0097180643467
+        ],
+        "max": [
+          -15.745577348481522,
+          226.35692790473365,
+          169.05200646068846
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.75,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 1.7916666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.21314396059778745,
+      "robotPosition": [
+        -78.69926078897167,
+        98.54604321887484,
+        140.86866669066217
+      ],
+      "bounds": {
+        "min": [
+          -135.2930927640992,
+          94.55193796364557,
+          125.284509270954
+        ],
+        "max": [
+          -11.557485862328969,
+          218.25096888158822,
+          187.2965524018517
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.7916666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 1.8333333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.22800434781202134,
+      "robotPosition": [
+        -74.46707518986432,
+        89.60085303962857,
+        158.76316752450535
+      ],
+      "bounds": {
+        "min": [
+          -131.3640427629231,
+          85.21352121042257,
+          143.35760555411827
+        ],
+        "max": [
+          -7.499881687087314,
+          209.37675737297744,
+          205.77199114266188
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.8333333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 1.875,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.24512882238449912,
+      "robotPosition": [
+        -70.35805393586006,
+        80.22239431486881,
+        176.53607871720115
+      ],
+      "bounds": {
+        "min": [
+          -127.37296992643033,
+          75.40519937226505,
+          161.220090805142
+        ],
+        "max": [
+          -3.473143625926382,
+          199.99357192343254,
+          224.46607951380153
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.875,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 1.9166666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.26430379116821656,
+      "robotPosition": [
+        -66.28783788647732,
+        70.68145988554151,
+        194.18121393178086
+      ],
+      "bounds": {
+        "min": [
+          -123.22252141477679,
+          65.40314626370163,
+          178.86413370560305
+        ],
+        "max": [
+          0.6216288969185024,
+          190.36062093877715,
+          243.3623564512397
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 3,
+        "time": 1.9166666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 1.9583333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.28531566101616934,
+      "robotPosition": [
+        -62.17206790123457,
+        61.248842592592624,
+        211.6923868312757
+      ],
+      "bounds": {
+        "min": [
+          -118.80967337665187,
+          55.48358285051185,
+          196.28298676473398
+        ],
+        "max": [
+          4.881718171908679,
+          180.73763881075132,
+          262.53445703439036
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 1.9583333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.30795083878135365,
+      "robotPosition": [
+        -57.92638483965014,
+        52.19533527696794,
+        229.06341107871722
+      ],
+      "bounds": {
+        "min": [
+          -114.0290775077049,
+          45.92274592711712,
+          213.4710638825949
+        ],
+        "max": [
+          9.401765714021227,
+          171.38543122407202,
+          281.980816656039
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 2,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.0416666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.3319957313167651,
+      "robotPosition": [
+        -53.46642956124253,
+        43.79173077961346,
+        246.28810033713643
+      ],
+      "bounds": {
+        "min": [
+          -108.90267465562306,
+          36.99684959927725,
+          230.42409834499563
+        ],
+        "max": [
+          14.272633231299277,
+          162.56636492341275,
+          301.50125582367366
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 2.0416666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.0833333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.3572367454753999,
+      "robotPosition": [
+        -48.70784292552995,
+        36.30882194147499,
+        263.36026826956544
+      ],
+      "bounds": {
+        "min": [
+          -103.18473224455937,
+          28.98204074163931,
+          247.1393700548489
+        ],
+        "max": [
+          19.580191603646945,
+          154.5447969287443,
+          321.05108131627134
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 5,
+        "time": 2.0833333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.125,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.38346028811025346,
+      "robotPosition": [
+        -43.566265792031096,
+        30.017401603498556,
+        280.27372853903466
+      ],
+      "bounds": {
+        "min": [
+          -96.7465335473729,
+          22.15435007931155,
+          263.61597407626857
+        ],
+        "max": [
+          25.404131733452644,
+          147.587438294287,
+          340.57786707750114
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 2.125,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.1666666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.4104527660743219,
+      "robotPosition": [
+        -37.95733902026419,
+        25.188262606629962,
+        297.022294808576
+      ],
+      "bounds": {
+        "min": [
+          -89.461027220078,
+          16.789640908470783,
+          279.85508274084805
+        ],
+        "max": [
+          31.81694881208317,
+          141.96364802018942,
+          360.0211224423728
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 2.1666666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.2083333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.43800058622060134,
+      "robotPosition": [
+        -31.796703469747676,
+        22.092197791815124,
+        313.5997807412207
+      ],
+      "bounds": {
+        "min": [
+          -81.20660408992063,
+          13.163557716978811,
+          295.8601335504893
+        ],
+        "max": [
+          38.88330568127058,
+          137.94565362375477,
+          379.3126468819107
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 4,
+        "time": 2.2083333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.25,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.4658901554020871,
+      "robotPosition": [
+        -25,
+        21,
+        330
+      ],
+      "bounds": {
+        "min": [
+          -72.71230147442964,
+          11.551477089645996,
+          311.9689740261517
+        ],
+        "max": [
+          46.410648412914895,
+          135.80869610515435,
+          397.9668667675848
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 5,
+        "time": 2.25,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.2916666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.49390788047177536,
+      "robotPosition": [
+        -17.80152414679376,
+        20.958607781737033,
+        346.2840161049722
+      ],
+      "bounds": {
+        "min": [
+          -64.55567126712775,
+          11.004608995786207,
+          328.30730012903354
+        ],
+        "max": [
+          54.1053995550974,
+          134.60948198581698,
+          416.0913138173968
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 6,
+        "time": 2.2916666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.3333333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.5218401682826622,
+      "robotPosition": [
+        -10.491894190558817,
+        20.83893028110715,
+        362.51576703579735
+      ],
+      "bounds": {
+        "min": [
+          -56.27986112303159,
+          10.397784201792234,
+          344.59742435394963
+        ],
+        "max": [
+          61.92815954047462,
+          133.23421906174596,
+          435.32684707633933
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 6,
+        "time": 2.3333333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.375,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.549473425687743,
+      "robotPosition": [
+        -3.07123510779973,
+        20.647716229348884,
+        378.6933781449087
+      ],
+      "bounds": {
+        "min": [
+          -48.118900635632336,
+          9.741294810345135,
+          360.8350292761794
+        ],
+        "max": [
+          69.94601272641398,
+          131.69704872271944,
+          454.41595305224257
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 7,
+        "time": 2.375,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.4166666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.5765940595400139,
+      "robotPosition": [
+        4.460328124979146,
+        20.391714357700753,
+        394.8149747847404
+      ],
+      "bounds": {
+        "min": [
+          -39.828912566732164,
+          9.045037004311625,
+          377.01563383615263
+        ],
+        "max": [
+          78.0902022075346,
+          130.0210402006354,
+          473.3373345249539
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 8,
+        "time": 2.4166666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.4583333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.6029884766924711,
+      "robotPosition": [
+        12.102670531273489,
+        20.077673397401288,
+        410.87868230772625
+      ],
+      "bounds": {
+        "min": [
+          -31.412586147025507,
+          8.318505567557903,
+          393.13464196970057
+        ],
+        "max": [
+          86.3483373313343,
+          128.23188755749732,
+          492.07131797988154
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 8,
+        "time": 2.4583333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.6284430839981098,
+      "robotPosition": [
+        19.855667134578702,
+        19.71234207968902,
+        426.88262606629957
+      ],
+      "bounds": {
+        "min": [
+          -22.872461155965627,
+          7.570801590353176,
+          409.1873923230087
+        ],
+        "max": [
+          94.71538255995863,
+          126.35764292268516,
+          510.5998359336423
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 9,
+        "time": 2.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.5416666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.6527442883099261,
+      "robotPosition": [
+        27.719192958390476,
+        19.302469135802472,
+        442.82493141289433
+      ],
+      "bounds": {
+        "min": [
+          -14.210945233183544,
+          6.810653921600393,
+          425.16920762132276
+        ],
+        "max": [
+          103.186523543809,
+          124.4284009359454,
+          528.906364198946
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 9,
+        "time": 2.5416666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.5833333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.6756784964809164,
+      "robotPosition": [
+        35.69312302620446,
+        18.854803296980165,
+        458.7037236999445
+      ],
+      "bounds": {
+        "min": [
+          -5.430345768683106,
+          6.046454495482072,
+          441.07544244956176
+        ],
+        "max": [
+          112.43977835468468,
+          122.47594213815141,
+          546.9849555697128
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 10,
+        "time": 2.5833333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.625,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.6970321153640759,
+      "robotPosition": [
+        43.77733236151605,
+        19.08978605254491,
+        474.5171282798834
+      ],
+      "bounds": {
+        "min": [
+          3.467082611896708,
+          6.0000000000000036,
+          456.9015284571506
+        ],
+        "max": [
+          121.7940820208517,
+          121.2470356400242,
+          564.8173702722574
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 11,
+        "time": 2.625,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.6666666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7165915518124006,
+      "robotPosition": [
+        51.97169598782094,
+        19.33499795653475,
+        490.2632705051451
+      ],
+      "bounds": {
+        "min": [
+          12.479074014047367,
+          6.000000000000002,
+          472.6430163067579
+        ],
+        "max": [
+          131.22288235860876,
+          120.09646874713638,
+          582.3854021814909
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 11,
+        "time": 2.6666666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.7083333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7341432126788867,
+      "robotPosition": [
+        60.27608892861481,
+        19.54300799326424,
+        505.9402757281632
+      ],
+      "bounds": {
+        "min": [
+          21.603269780045174,
+          6.000000000000002,
+          488.2956140328153
+        ],
+        "max": [
+          140.71411776326283,
+          119.00445873921707,
+          599.6770156997039
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 12,
+        "time": 2.7083333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 2.75,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7494735048165297,
+      "robotPosition": [
+        68.69038620739303,
+        19.71290788432059,
+        521.5462693013714
+      ],
+      "bounds": {
+        "min": [
+          30.837118646361578,
+          6.0000000000000036,
+          503.85522184460166
+        ],
+        "max": [
+          150.25549136683085,
+          117.99773267947222,
+          616.6807046485669
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 12,
+        "time": 2.75,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 2.7916666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7623688350783258,
+      "robotPosition": [
+        77.2144628476513,
+        19.874780698289257,
+        537.0793765772034
+      ],
+      "bounds": {
+        "min": [
+          40.17775769565378,
+          6.000000000000004,
+          519.3179637834071
+        ],
+        "max": [
+          159.83432173563065,
+          117.13352646405852,
+          633.3851605428215
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 13,
+        "time": 2.7916666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 2.8333333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7726156103172706,
+      "robotPosition": [
+        85.84819387288528,
+        20.001562295575436,
+        552.5377229080934
+      ],
+      "bounds": {
+        "min": [
+          49.62187330681662,
+          5.999999999999995,
+          534.6802170068692
+        ],
+        "max": [
+          169.43735067968262,
+          116.41096096425214,
+          649.7789067440087
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 14,
+        "time": 2.8333333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 2.875,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7800002373863599,
+      "robotPosition": [
+        94.59145430659038,
+        20.076921260952552,
+        567.9194336464745
+      ],
+      "bounds": {
+        "min": [
+          59.16554143448693,
+          5.999999999999995,
+          549.9386398094565
+        ],
+        "max": [
+          179.05050968323718,
+          115.83841740747614,
+          665.8499049558573
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 14,
+        "time": 2.875,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 2.9166666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7843091231385899,
+      "robotPosition": [
+        103.4441191722623,
+        20.09848723661581,
+        583.2226341447807
+      ],
+      "bounds": {
+        "min": [
+          68.80404679244626,
+          6.000000000000002,
+          565.09019978032
+        ],
+        "max": [
+          188.65864809841145,
+          115.43623538616356,
+          681.5851421460001
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 15,
+        "time": 2.9166666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 2.9583333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        112.40606349339666,
+        20.064517313234997,
+        598.445449755446
+      ],
+      "bounds": {
+        "min": [
+          78.5327971352375,
+          5.999999999999998,
+          580.1327002296243
+        ],
+        "max": [
+          198.2485630381267,
+          115.2173808740863,
+          696.9754918420467
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 15,
+        "time": 2.9583333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        121.47716229348885,
+        20.00805144603121,
+        613.5860058309038
+      ],
+      "bounds": {
+        "min": [
+          88.38332586301253,
+          5.999999999999998,
+          595.0803455636051
+        ],
+        "max": [
+          207.91606979730832,
+          115.04915409799446,
+          712.1826113262266
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 16,
+        "time": 3,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.0416666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        130.6572905960346,
+        19.946188730645396,
+        628.642427723588
+      ],
+      "bounds": {
+        "min": [
+          98.37173427159885,
+          5.999999999999999,
+          609.939531525315
+        ],
+        "max": [
+          217.7100167943313,
+          114.8638284304101,
+          727.2866912673586
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 17,
+        "time": 3.0416666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.0833333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        139.9463234245296,
+        19.879280128665222,
+        643.6128407859323
+      ],
+      "bounds": {
+        "min": [
+          108.49677565207595,
+          5.9999999999999964,
+          624.7088221434834
+        ],
+        "max": [
+          227.62745204458622,
+          114.66218510866108,
+          742.2849080572561
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 17,
+        "time": 3.0833333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.125,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        149.34413580246917,
+        19.80770538425901,
+        658.4953703703704
+      ],
+      "bounds": {
+        "min": [
+          118.75706586187367,
+          5.9999999999999964,
+          639.3868078415379
+        ],
+        "max": [
+          237.66532057993794,
+          114.4450965115251,
+          757.1745401535434
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 18,
+        "time": 3.125,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.1666666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        158.85060275334897,
+        19.73187085723782,
+        673.2881418293359
+      ],
+      "bounds": {
+        "min": [
+          129.15108819714177,
+          5.999999999999998,
+          653.9721017279389
+        ],
+        "max": [
+          247.82049011882026,
+          114.21352728095914,
+          771.9529834286858
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 19,
+        "time": 3.1666666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.2083333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        168.46559930066488,
+        19.65220718491956,
+        687.9892805152632
+      ],
+      "bounds": {
+        "min": [
+          139.67719945437645,
+          5.999999999999998,
+          668.4633356696534
+        ],
+        "max": [
+          258.08977735670265,
+          113.96853476634988,
+          786.6177656363376
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 19,
+        "time": 3.2083333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.25,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        178.18900046791205,
+        19.569166785370644,
+        702.5969117805853
+      ],
+      "bounds": {
+        "min": [
+          150.33363721377194,
+          6,
+          682.8591561927641
+        ],
+        "max": [
+          268.46997456130384,
+          113.71126865066475,
+          801.1665597059881
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 20,
+        "time": 3.25,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.2916666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        188.02068127858632,
+        19.483221216737583,
+        717.1091609777361
+      ],
+      "bounds": {
+        "min": [
+          161.11335220879408,
+          5.999999999999997,
+          697.1594022922118
+        ],
+        "max": [
+          278.9555459035674,
+          113.4429696311563,
+          815.5966905471969
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 20,
+        "time": 3.2916666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.3333333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        197.94174932292222,
+        19.394858409471183,
+        731.4992547747178
+      ],
+      "bounds": {
+        "min": [
+          171.98204798006685,
+          5.999999999999998,
+          711.3408292588285
+        ],
+        "max": [
+          289.5189765488878,
+          113.16496704442278,
+          829.880495152722
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 21,
+        "time": 3.3333333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.375,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        207.91541466346158,
+        19.304579790209342,
+        745.7215294471154
+      ],
+      "bounds": {
+        "min": [
+          182.90379958001952,
+          5.999999999999997,
+          725.3574918937844
+        ],
+        "max": [
+          300.12266935785476,
+          112.87867534619969,
+          843.9736046524629
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 22,
+        "time": 3.375,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.4166666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        217.9441372313672,
+        19.21289731784095,
+        759.7864690500686
+      ],
+      "bounds": {
+        "min": [
+          193.87757566910832,
+          5.999999999999997,
+          739.220563896288
+        ],
+        "max": [
+          310.7664584827221,
+          112.58558937968621,
+          857.8875839443671
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 22,
+        "time": 3.4166666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.4583333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        228.0315751429998,
+        19.12033045374519,
+        773.7062071948864
+      ],
+      "bounds": {
+        "min": [
+          204.68635900934552,
+          5.999999999999998,
+          752.9428857855206
+        ],
+        "max": [
+          321.451504479327,
+          112.28727839186395,
+          871.6359235765209
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 23,
+        "time": 3.4583333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        238.18138651471986,
+        19.043781679869387,
+        787.4928774928776
+      ],
+      "bounds": {
+        "min": [
+          214.97241391273627,
+          5.999999999999997,
+          766.5372592051241
+        ],
+        "max": [
+          332.1792121780202,
+          112.09578446399057,
+          885.232399638048
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 23,
+        "time": 3.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.5416666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        248.39722946288825,
+        19.02395187721653,
+        801.1586135553512
+      ],
+      "bounds": {
+        "min": [
+          225.32493816788792,
+          5.999999999999997,
+          780.0164423963827
+        ],
+        "max": [
+          342.9512413932448,
+          112.28362083014956,
+          898.691056042284
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 24,
+        "time": 3.5416666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.5833333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        258.68276210386557,
+        19.00430572306845,
+        814.7155489936162
+      ],
+      "bounds": {
+        "min": [
+          235.74688286162322,
+          6.000000000000003,
+          793.3931465199153
+        ],
+        "max": [
+          353.7695124263242,
+          112.46790644546365,
+          912.0261816998619
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 25,
+        "time": 3.5833333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.625,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        269.04164255401236,
+        18.98495282644797,
+        828.1758174189816
+      ],
+      "bounds": {
+        "min": [
+          246.2411789984563,
+          5.9999999999999964,
+          806.6800328700259
+        ],
+        "max": [
+          364.63620642990765,
+          112.64766593847136,
+          925.2522830389377
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 25,
+        "time": 3.625,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.6666666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        279.4775289296894,
+        18.96600033999048,
+        841.5515524427561
+      ],
+      "bounds": {
+        "min": [
+          256.81074517733276,
+          6.000000000000001,
+          819.8897109997894
+        ],
+        "max": [
+          375.55376084386825,
+          112.821986231214,
+          938.3840524452147
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 26,
+        "time": 3.6666666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.7083333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        289.9940793472574,
+        18.947552382491136,
+        854.8548876762492
+      ],
+      "bounds": {
+        "min": [
+          267.4584955312406,
+          5.999999999999998,
+          833.0347377486767
+        ],
+        "max": [
+          386.52486024447165,
+          112.99001958734621,
+          951.4363332897244
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 27,
+        "time": 3.7083333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.75,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        300.59495192307696,
+        18.92970949841986,
+        868.0979567307692
+      ],
+      "bounds": {
+        "min": [
+          278.18734777815223,
+          5.999999999999993,
+          846.1276171391839
+        ],
+        "max": [
+          397.55242306631794,
+          113.15098548759386,
+          964.4240822846352
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 27,
+        "time": 3.75,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.7916666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        311.2838047735087,
+        18.912568156919104,
+        881.2928932176255
+      ],
+      "bounds": {
+        "min": [
+          289.0002312344069,
+          6.000000000000003,
+          859.1808010854583
+        ],
+        "max": [
+          408.6395847558807,
+          113.30417138342696,
+          977.3623299551019
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 28,
+        "time": 3.7916666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850,
+        155.00000000000003,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.8333333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        322.06429601491334,
+        18.89622029199852,
+        894.4518307481272
+      ],
+      "bounds": {
+        "min": [
+          299.90009464859196,
+          6.000000000000002,
+          872.206690836252
+        ],
+        "max": [
+          419.7896779932637,
+          113.44893240431259,
+          990.2661400378844
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 28,
+        "time": 3.8333333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000000000001,
+        154.99999999999983,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.875,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        332.9400837636515,
+        18.88075288483824,
+        907.5869029335826
+      ],
+      "bounds": {
+        "min": [
+          310.88991372467996,
+          6.000000000000001,
+          885.2176390573461
+        ],
+        "max": [
+          431.006210673205,
+          113.58469011624128,
+          1003.1505686159888
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 29,
+        "time": 3.875,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9999999999997,
+        155.00000000000125,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.9166666666666665,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        343.9148261360839,
+        18.866247588335263,
+        920.7102433853013
+      ],
+      "bounds": {
+        "min": [
+          321.9726982168394,
+          5.999999999999997,
+          898.2259524454024
+        ],
+        "max": [
+          442.292842366546,
+          113.710930448806,
+          1016.0306237746731
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 29,
+        "time": 3.9166666666666665,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000000000005,
+        154.99999999999213,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 3.9583333333333335,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        354.99218124857117,
+        18.852780393298737,
+        933.833985714592
+      ],
+      "bounds": {
+        "min": [
+          333.151498494165,
+          6.000000000000001,
+          911.2438947562862
+        ],
+        "max": [
+          453.65335998970176,
+          113.82720092445639,
+          1028.921226520419
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 30,
+        "time": 3.9583333333333335,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000000000077,
+        155.0000000000412,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 4,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        366.1758072174739,
+        18.84042133504616,
+        946.9702635327634
+      ],
+      "bounds": {
+        "min": [
+          344.42941149075716,
+          6.000000000000002,
+          924.2836901263793
+        ],
+        "max": [
+          465.09165339344247,
+          113.93310733623755,
+          1041.837173644162
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 30,
+        "time": 4,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9999999999123,
+        154.99999999982174,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 4.041666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        377.469362159153,
+        18.829234238590416,
+        960.1312104511252
+      ],
+      "bounds": {
+        "min": [
+          355.8095859742944,
+          6.000000000000002,
+          937.3575265651245
+        ],
+        "max": [
+          476.61169154563936,
+          114.02831002903739,
+          1054.7931031366645
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 30,
+        "time": 4.041666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000000006319,
+        155.00000000060263,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 472,
+      "triangles": 127954
+    },
+    {
+      "shot": "op_final",
+      "time": 4.083333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        388.87650418996856,
+        18.81927650015795,
+        973.3289600809853
+      ],
+      "bounds": {
+        "min": [
+          367.29522708379244,
+          6.000000000000002,
+          950.4775595007463
+        ],
+        "max": [
+          488.2174999282954,
+          114.11251994390044,
+          1067.8034626811395
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 30,
+        "time": 4.083333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9999999963215,
+        154.9999999987539,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 4.125,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        400.40089142628204,
+        18.810598902453215,
+        986.5756460336538
+      ],
+      "bounds": {
+        "min": [
+          378.8896001040303,
+          6.000000000000002,
+          963.6559152683758
+        ],
+        "max": [
+          499.913139700361,
+          114.18549458522176,
+          1080.8824816596207
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.125,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000000184417,
+        154.9999999982542,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 471,
+      "triangles": 127942
+    },
+    {
+      "shot": "op_final",
+      "time": 4.166666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        412.0461819844538,
+        18.803245460891603,
+        999.8834019204393
+      ],
+      "bounds": {
+        "min": [
+          390.596033459626,
+          6.000000000000002,
+          976.9046944401119
+        ],
+        "max": [
+          511.70268909784096,
+          114.24703406662996,
+          1094.0441470183694
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.166666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9999999183364,
+        155.0000000352795,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.208333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        423.8160339808438,
+        18.797253297968204,
+        1013.2643613526496
+      ],
+      "bounds": {
+        "min": [
+          402.4179209256923,
+          6.000000000000009,
+          990.2359749093526
+        ],
+        "max": [
+          523.590227454972,
+          114.29697738322795,
+          1107.3021832467932
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.208333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000003228554,
+        154.99999977177947,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.25,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        435.71410553181374,
+        18.792652543008423,
+        1026.7306579415954
+      ],
+      "bounds": {
+        "min": [
+          414.3587230641314,
+          6,
+          1003.6618146563452
+        ],
+        "max": [
+          535.5798221380011,
+          114.3351990458219,
+          1120.6700366361554
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.25,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9999988571799,
+        155.00000106802318,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.291666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        447.7440547537241,
+        18.789466254754938,
+        1040.2944252985849
+      ],
+      "bounds": {
+        "min": [
+          426.42196790489567,
+          5.9999999999999964,
+          1017.1942541377701
+        ],
+        "max": [
+          547.6755185893257,
+          114.36160619716193,
+          1134.1608639008195
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.291666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000036090863,
+        154.99999594820696,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.333333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        459.90953976293486,
+        18.7877103645695,
+        1053.9677970349267
+      ],
+      "bounds": {
+        "min": [
+          438.6112509000063,
+          6.000000000000007,
+          1030.8453182596825
+        ],
+        "max": [
+          559.8813335871776,
+          114.3761363114686,
+          1147.7875251671167
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.333333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.999989950618,
+        155.00001281906017,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.375,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        472.2142186758072,
+        18.787393638453047,
+        1067.76290676193
+      ],
+      "bounds": {
+        "min": [
+          450.9302341848624,
+          5.9999999999999964,
+          1044.6270179097094
+        ],
+        "max": [
+          572.2012517368432,
+          114.37875555712368,
+          1161.5625812640856
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.375,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000239974835,
+        154.9999664733288,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.416666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        484.66174960870194,
+        18.788517656593264,
+        1081.6918880909045
+      ],
+      "bounds": {
+        "min": [
+          463.3826451866166,
+          6,
+          1058.5513510405756
+        ],
+        "max": [
+          584.6392251255807,
+          114.36945787892822,
+          1175.4982951867441
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.416666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9999542635938,
+        155.00006835546776,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.458333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        497.2557906779791,
+        18.791076809711633,
+        1095.7668746331578
+      ],
+      "bounds": {
+        "min": [
+          475.972274623382,
+          6.000000000000001,
+          1072.6303033123788
+        ],
+        "max": [
+          597.1991759963778,
+          114.34826483139013,
+          1189.6066375463395
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.458333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000521699052,
+        154.99991579418523,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        510,
+        18.7950583120774,
+        1110
+      ],
+      "bounds": {
+        "min": [
+          488.7819385464513,
+          6.000000000000003,
+          1086.8024622924077
+        ],
+        "max": [
+          609.9467785017885,
+          114.31522616874535,
+          1203.8073538817603
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0000651123062,
+        154.9999196621345,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.541666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        523.013941648201,
+        18.80044223165721,
+        1124.3626675108158
+      ],
+      "bounds": {
+        "min": [
+          501.93052479298666,
+          5.999999999999998,
+          1101.043137211478
+        ],
+        "max": [
+          622.9937284372132,
+          114.27042117150928,
+          1218.0685545517058
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.541666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9993492810448,
+        155.00091785111718,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.583333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        536.4049804790543,
+        18.807201538449377,
+        1138.8234673419859
+      ],
+      "bounds": {
+        "min": [
+          515.4365358447976,
+          5.999999999999993,
+          1115.403239899295
+        ],
+        "max": [
+          636.3797095105051,
+          114.21396066397563,
+          1232.4632027611538
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.583333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0025855564123,
+        154.99643027193346,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.625,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        550.1584757834759,
+        18.815302172585994,
+        1153.3903133903136
+      ],
+      "bounds": {
+        "min": [
+          529.2856111635549,
+          5.999999999999998,
+          1129.889020473529
+        ],
+        "max": [
+          650.0947902179986,
+          114.14598965287982,
+          1247.0009402324235
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.625,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9922350814608,
+        155.0100907906588,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.666666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        564.2597868523795,
+        18.82470313424851,
+        1168.0711195526012
+      ],
+      "bounds": {
+        "min": [
+          543.4635176707804,
+          6.000000000000005,
+          1144.50692241042
+        ],
+        "max": [
+          664.1282374987585,
+          114.06669049506354,
+          1261.6905228478374
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.666666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0196513311708,
+        154.97684893063922,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.708333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        578.6942729766803,
+        18.835356597813664,
+        1182.8737997256515
+      ],
+      "bounds": {
+        "min": [
+          557.9561281210779,
+          5.999999999999999,
+          1159.263562480453
+        ],
+        "max": [
+          678.468616877379,
+          113.97628648199742,
+          1276.539929343075
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.708333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9564688438151,
+        155.04430303768478,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.75,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        593.4472934472934,
+        18.847208052907337,
+        1197.8062678062677
+      ],
+      "bounds": {
+        "min": [
+          572.7494027633833,
+          6.000000000000005,
+          1174.165711535605
+        ],
+        "max": [
+          693.1038852795829,
+          113.87504571197528,
+          1291.5564597165537
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.75,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0857712437175,
+        154.92995868488833,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.791666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        608.5042075551337,
+        18.86019647518043,
+        1212.8764376912525
+      ],
+      "bounds": {
+        "min": [
+          587.8293737544489,
+          6.000000000000009,
+          1189.2202763723362
+        ],
+        "max": [
+          708.0214765618216,
+          113.76328510713851,
+          1306.7468244549923
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.791666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.8487642677667,
+        155.08611859771273,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 470,
+      "triangles": 127930
+    },
+    {
+      "shot": "op_final",
+      "time": 4.833333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        623.8503745911152,
+        18.8742545296261,
+        1228.0922232774083
+      ],
+      "bounds": {
+        "min": [
+          603.1821318537915,
+          5.999999999999999,
+          1204.4342828001456
+        ],
+        "max": [
+          723.2083799898667,
+          113.64137442260235,
+          1322.1172256581458
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.833333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.2384986138909,
+        154.93684550316556,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 468,
+      "triangles": 127906
+    },
+    {
+      "shot": "op_final",
+      "time": 4.875,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        639.4711538461538,
+        18.889308809124227,
+        1243.4615384615386
+      ],
+      "bounds": {
+        "min": [
+          618.7938149951127,
+          5.9999999999999964,
+          1219.8148599808771
+        ],
+        "max": [
+          738.6512120015626,
+          113.50974008911011,
+          1337.6734310692673
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.875,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.666139234372,
+        154.95921645714708,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 452,
+      "triangles": 127714
+    },
+    {
+      "shot": "op_final",
+      "time": 4.916666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        655.351904611164,
+        18.905280110631885,
+        1258.9922971404455
+      ],
+      "bounds": {
+        "min": [
+          634.6505983920745,
+          5.999999999999997,
+          1235.3692260607797
+        ],
+        "max": [
+          754.3362816265882,
+          113.36886872901687,
+          1353.4208419084184
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.916666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.4071309692312,
+        155.26518885278082,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 382,
+      "triangles": 126802
+    },
+    {
+      "shot": "op_final",
+      "time": 4.958333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        671.4779861770602,
+        18.922083751042074,
+        1274.6924132109316
+      ],
+      "bounds": {
+        "min": [
+          650.7386858942,
+          6,
+          1251.1046750894532
+        ],
+        "max": [
+          770.2496499341664,
+          113.21931018806237,
+          1369.3645552815785
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 4.958333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.5865604567025,
+        154.37978949573173,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 339,
+      "triangles": 126054
+    },
+    {
+      "shot": "op_final",
+      "time": 5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        687.8347578347579,
+        18.93962992421855,
+        1290.5698005698007
+      ],
+      "bounds": {
+        "min": [
+          667.0443023606075,
+          6.000000000000002,
+          1267.0285652022965
+        ],
+        "max": [
+          786.3771838546437,
+          113.06167993228968,
+          1385.50942181149
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.3043324559585,
+        156.05904178080118,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 259,
+      "triangles": 124462
+    },
+    {
+      "shot": "op_final",
+      "time": 5.041666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        704.4075788751716,
+        18.957824100098325,
+        1306.6323731138546
+      ],
+      "bounds": {
+        "min": [
+          683.5536868649879,
+          6,
+          1283.148308032514
+        ],
+        "max": [
+          802.7046046843815,
+          112.8966606704397,
+          1401.8600990144012
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.041666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.95280371312,
+        153.5305882649695,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 191,
+      "triangles": 123414
+    },
+    {
+      "shot": "op_final",
+      "time": 5.083333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        721.1818085892158,
+        18.976567466055332,
+        1322.8880447398967
+      ],
+      "bounds": {
+        "min": [
+          700.2530865848644,
+          6.000000000000006,
+          1299.471359312438
+        ],
+        "max": [
+          819.2175315434562,
+          112.72500307693291,
+          1418.421100835036
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.083333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.6460984407757,
+        156.70081708019538,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 152,
+      "triangles": 122250
+    },
+    {
+      "shot": "op_final",
+      "time": 5.125,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        738.1428062678062,
+        18.995757409959545,
+        1339.3447293447293
+      ],
+      "bounds": {
+        "min": [
+          717.1287512619865,
+          6.000000000000002,
+          1316.0052106201265
+        ],
+        "max": [
+          835.9015200174683,
+          112.54752550876775,
+          1435.1968436530717
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.125,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.8468883336242,
+        153.3746249245924,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 140,
+      "triangles": 121930
+    },
+    {
+      "shot": "op_final",
+      "time": 5.166666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        755.2759312018571,
+        19.015288043571807,
+        1356.010340825156
+      ],
+      "bounds": {
+        "min": [
+          734.1669281492318,
+          6.000000000000009,
+          1332.7573822245854
+        ],
+        "max": [
+          852.7420961816674,
+          112.3651126308552,
+          1452.1916889895554
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.166666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        848.6609939738516,
+        156.2050738044525,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 107,
+      "triangles": 121330
+    },
+    {
+      "shot": "op_final",
+      "time": 5.208333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        772.5665426822834,
+        19.03505076410925,
+        1372.8927930779782
+      ],
+      "bounds": {
+        "min": [
+          751.3538573830505,
+          6.000000000000002,
+          1349.7354169807754
+        ],
+        "max": [
+          869.7247861794082,
+          112.17871288792554,
+          1469.409983071411
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.208333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        851.7235676570524,
+        154.47432958740967,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 100,
+      "triangles": 121246
+    },
+    {
+      "shot": "op_final",
+      "time": 5.25,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        790,
+        19.079501282633075,
+        1390
+      ],
+      "bounds": {
+        "min": [
+          768.7091677195109,
+          6.0000000000000036,
+          1366.91784905687
+        ],
+        "max": [
+          886.8651691582163,
+          112.15493350328404,
+          1486.8236024302535
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.25,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        848.0838327334384,
+        154.7713673095179,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.291666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        807.7100480109741,
+        19.172291268728006,
+        1407.4022633744855
+      ],
+      "bounds": {
+        "min": [
+          786.3730593025455,
+          6.000000000000001,
+          1384.368517652544
+        ],
+        "max": [
+          904.3080782151445,
+          112.45502695901882,
+          1504.4984594549787
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.291666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        851.883984993648,
+        155.85089478010613,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.333333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        825.816186556927,
+        19.264426755622544,
+        1425.1440329218105
+      ],
+      "bounds": {
+        "min": [
+          804.4313400851257,
+          5.999999999999995,
+          1402.1607663004136
+        ],
+        "max": [
+          922.14552243408,
+          112.75060681113327,
+          1522.5116728559308
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.333333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        848.3454451088433,
+        153.8030737171392,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.375,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        844.2824074074075,
+        19.3553859547893,
+        1443.1944444444443
+      ],
+      "bounds": {
+        "min": [
+          822.8486113522695,
+          6,
+          1420.2631623979628
+        ],
+        "max": [
+          940.343147067295,
+          113.04007333000823,
+          1540.8303597149745
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.375,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        851.3009359125607,
+        156.23465208957924,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.416666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        863.0727023319618,
+        19.444653233673808,
+        1461.522633744856
+      ],
+      "bounds": {
+        "min": [
+          841.5894191587022,
+          6.0000000000000036,
+          1438.6443031939493
+        ],
+        "max": [
+          958.8666089887168,
+          113.32189815941719,
+          1559.4217686817803
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.416666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.087942968704,
+        153.96398837790176,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.458333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        882.1510631001371,
+        19.531722167124602,
+        1480.0977366255142
+      ],
+      "bounds": {
+        "min": [
+          860.61825903946,
+          5.9999999999999964,
+          1457.2728124180219
+        ],
+        "max": [
+          977.6815701671648,
+          113.59463085634751,
+          1578.2532795122734
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.458333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.5629516872965,
+        155.7253178638478,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.5,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        901.4814814814813,
+        20.22222222222222,
+        1498.8888888888887
+      ],
+      "bounds": {
+        "min": [
+          879.8995796128359,
+          6.606123689178077,
+          1476.1173384755525
+        ],
+        "max": [
+          996.7536887211072,
+          114.46302785870793,
+          1597.2924025331915
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.5,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.7030420961389,
+        154.5810251986921,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.541666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        921.027949245542,
+        22.06584362139919,
+        1517.8652263374488
+      ],
+      "bounds": {
+        "min": [
+          899.3977853675956,
+          8.368540391673719,
+          1495.146553853732
+        ],
+        "max": [
+          1016.0486080752349,
+          116.47597847709073,
+          1616.5067777976262
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.541666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.1237571111643,
+        155.1872929615249,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.583333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        940.7544581618654,
+        24.008230452674884,
+        1536.9958847736625
+      ],
+      "bounds": {
+        "min": [
+          919.0772388433157,
+          10.233355359008986,
+          1514.3291554693824
+        ],
+        "max": [
+          1035.5319446562933,
+          118.57839805577613,
+          1635.8641737927164
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.583333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9708912069055,
+        154.95144403932423,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.625,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        960.625,
+        26,
+        1556.25
+      ],
+      "bounds": {
+        "min": [
+          938.9022623505006,
+          12.151626401709787,
+          1533.633865749518
+        ],
+        "max": [
+          1055.1692745097243,
+          120.72024637518558,
+          1655.3324856393688
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.625,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9885158171282,
+        154.9858343541589,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.666666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        980.6035665294927,
+        27.991769547325113,
+        1575.59670781893
+      ],
+      "bounds": {
+        "min": [
+          958.837139329683,
+          14.074388131428933,
+          1553.0294342803081
+        ],
+        "max": [
+          1074.926119178924,
+          122.85155266863022,
+          1674.8797327881882
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.666666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0217036370838,
+        155.03032063609888,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.708333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        1000.6541495198902,
+        29.934156378600807,
+        1595.0051440329216
+      ],
+      "bounds": {
+        "min": [
+          978.8461154118884,
+          15.952649551418503,
+          1572.4846398941452
+        ],
+        "max": [
+          1094.7679311582851,
+          124.92241311146611,
+          1694.4740562679976
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.708333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9812624851122,
+        154.97434212175358,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.75,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        1020.7407407407408,
+        31.77777777777778,
+        1614.4444444444443
+      ],
+      "bounds": {
+        "min": [
+          998.8933992135258,
+          17.737391812936384,
+          1591.9682930916924
+        ],
+        "max": [
+          1114.6600792048102,
+          126.88298773553049,
+          1714.0837155850604
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.75,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0124093423259,
+        155.0159889489132,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.791666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        1040.8273319615912,
+        33.4732510288066,
+        1633.8837448559673
+      ],
+      "bounds": {
+        "min": [
+          1018.9431628749221,
+          19.37956614897336,
+          1611.4492387187113
+        ],
+        "max": [
+          1134.5678337677623,
+          128.68349692646711,
+          1733.6770854036558
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.791666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9930430236035,
+        154.99188601027043,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.833333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        1060.877914951989,
+        34.97119341563785,
+        1653.2921810699588
+      ],
+      "bounds": {
+        "min": [
+          1038.9595423315607,
+          20.830091994633573,
+          1630.8963588381646
+        ],
+        "max": [
+          1154.4563527691928,
+          130.27421766604417,
+          1753.222652162986
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.833333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0034201786832,
+        155.00343594080957,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.875,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        1080.8564814814813,
+        36.22222222222223,
+        1672.6388888888891
+      ],
+      "bounds": {
+        "min": [
+          1058.9066372892996,
+          22.03985530158343,
+          1650.2785757580941
+        ],
+        "max": [
+          1174.290667938473,
+          131.60547968165434,
+          1772.6890108024913
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.875,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9985032442119,
+        154.9988003439169,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 98,
+      "triangles": 121222
+    },
+    {
+      "shot": "op_final",
+      "time": 5.916666666666667,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        1100.727023319616,
+        37.176954732510296,
+        1691.8930041152266
+      ],
+      "bounds": {
+        "min": [
+          1078.7485108581172,
+          22.959707052257535,
+          1669.5648551965005
+        ],
+        "max": [
+          1194.0356718695753,
+          132.62766166088397,
+          1792.044861778303
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.916666666666667,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        850.0005862789021,
+        155.00032330946078,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 99,
+      "triangles": 121234
+    },
+    {
+      "shot": "op_final",
+      "time": 5.958333333333333,
+      "robotScale": 4,
+      "flightLean": 45,
+      "robotPitch": 0.7853981633974483,
+      "robotPosition": [
+        1120.4535322359395,
+        37.78600823045267,
+        1711.02366255144
+      ],
+      "bounds": {
+        "min": [
+          1098.4491887820184,
+          23.540461978015344,
+          1688.72420958734
+        ],
+        "max": [
+          1213.6561059292885,
+          133.2911876804926,
+          1811.2590085588665
+        ]
+      },
+      "wake": {
+        "enabled": true,
+        "activeSamples": 31,
+        "time": 5.958333333333333,
+        "width": 90,
+        "depth": 14,
+        "sprayHeight": 26
+      },
+      "camera": [
+        849.9997946779173,
+        154.9999502307289,
+        1450
+      ],
+      "layer": "beauty",
+      "calls": 100,
+      "triangles": 121246
+    }
+  ]
+}

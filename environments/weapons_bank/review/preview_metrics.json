@@ -1,0 +1,80 @@
+{
+  "mode": "preview",
+  "qa": {
+    "checks": [
+      {
+        "weapon": "gemini",
+        "state": "twin",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gemini",
+        "state": "docked",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gemini",
+        "state": "hilts",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "claude",
+        "state": "retracted",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "claude",
+        "state": "drawn",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "claude",
+        "state": "complete",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "held",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "thrown",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "wall",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "sphere",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      }
+    ],
+    "webglError": 0
+  },
+  "errors": [],
+  "frames": 144
+}

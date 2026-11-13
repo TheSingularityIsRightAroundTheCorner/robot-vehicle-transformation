@@ -1,0 +1,102 @@
+{
+  "mode": "lighting",
+  "qa": {
+    "deterministic": true,
+    "lightingDeterministic": true,
+    "distinctLighting": true,
+    "towerFraming": true,
+    "bridgeAlpha": true,
+    "environmentHasNoBridge": true,
+    "layerRestored": true,
+    "stableRootCount": true,
+    "dimensions": {
+      "mainSpan": 1280,
+      "towerHeight": 227,
+      "deckCenterHeight": 75,
+      "deckWidth": 27
+    },
+    "webglError": 0
+  },
+  "records": [
+    {
+      "shot": "opening",
+      "time": 0,
+      "lighting": "day",
+      "camera": [
+        1250,
+        330,
+        1660
+      ],
+      "target": [
+        0,
+        92,
+        0
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 98,
+      "triangles": 120812
+    },
+    {
+      "shot": "opening",
+      "time": 0,
+      "lighting": "sunset",
+      "camera": [
+        1250,
+        330,
+        1660
+      ],
+      "target": [
+        0,
+        92,
+        0
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 98,
+      "triangles": 120812
+    },
+    {
+      "shot": "opening",
+      "time": 0,
+      "lighting": "night",
+      "camera": [
+        1250,
+        330,
+        1660
+      ],
+      "target": [
+        0,
+        92,
+        0
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 98,
+      "triangles": 120812
+    },
+    {
+      "shot": "opening",
+      "time": 0,
+      "lighting": "dawn",
+      "camera": [
+        1250,
+        330,
+        1660
+      ],
+      "target": [
+        0,
+        92,
+        0
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 98,
+      "triangles": 120812
+    }
+  ]
+}

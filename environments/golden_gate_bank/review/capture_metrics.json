@@ -1,0 +1,115 @@
+{
+  "mode": "stills",
+  "qa": {
+    "deterministic": true,
+    "towerFraming": true,
+    "bridgeAlpha": true,
+    "environmentHasNoBridge": true,
+    "layerRestored": true,
+    "stableRootCount": true,
+    "dimensions": {
+      "mainSpan": 1280,
+      "towerHeight": 227,
+      "deckCenterHeight": 75,
+      "deckWidth": 27
+    },
+    "webglError": 0
+  },
+  "records": [
+    {
+      "shot": "opening",
+      "time": 0,
+      "camera": [
+        1250,
+        330,
+        1660
+      ],
+      "target": [
+        0,
+        92,
+        0
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 98,
+      "triangles": 120812
+    },
+    {
+      "shot": "tower",
+      "time": 0,
+      "camera": [
+        710,
+        165,
+        210
+      ],
+      "target": [
+        640,
+        149,
+        0
+      ],
+      "duration": 5,
+      "width": 1920,
+      "height": 1080,
+      "calls": 36,
+      "triangles": 118580
+    },
+    {
+      "shot": "passage",
+      "time": 0,
+      "camera": [
+        0,
+        22,
+        -420
+      ],
+      "target": [
+        0,
+        52,
+        650
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 34,
+      "triangles": 110836
+    },
+    {
+      "shot": "ocean",
+      "time": 0,
+      "camera": [
+        0,
+        42,
+        160
+      ],
+      "target": [
+        -80,
+        85,
+        3000
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 24,
+      "triangles": 110716
+    },
+    {
+      "shot": "ending",
+      "time": 0,
+      "camera": [
+        -1000,
+        260,
+        1560
+      ],
+      "target": [
+        -90,
+        90,
+        0
+      ],
+      "duration": 6,
+      "width": 1920,
+      "height": 1080,
+      "calls": 97,
+      "triangles": 120800
+    }
+  ]
+}

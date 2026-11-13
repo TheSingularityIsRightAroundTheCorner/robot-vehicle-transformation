@@ -1,12 +1,54 @@
-# Robots, Vehicles & Transformations
+# Sentai Production Studio
+### 3D Assets for Tokusatsu
 
-**Robots, vehicles and transformations in Three.js. No Blender.**
+**Reusable robots, transforming vehicles, hero weapons and filming sets for hand-drawn tokusatsu animation. Built in Three.js. No Blender.**
+
+Created for [@The_singularity_is_coming](https://www.youtube.com/@The_singularity_is_coming). These procedural 3D assets support shot blocking, animation reference and artist-led tracing. They are not a text-to-video generator.
+
+**Production-bank collection published: November 14, 2026.** The robot demo predates this expanded collection. Git history records the successive implementations and publication changes; this date documents this release, not a claim of worldwide priority.
+
+## Vehicle launch and combination
+
+![Bike, jet and ship launch followed by combination](docs/vehicle_fusion.gif)
+
+## Robot action
 
 ![Robot charge, release and low-angle run](docs/robot_vehicle_transformation.gif)
 
-The preview above shows the robot motion. Open the Fusion Lab to explore the jet, ship and bike modes, transformation, and six mechanisms.
+## Hero weapons
 
-A standalone low-poly robot, vehicle transformation lab, and deterministic hero-shot rig. No build step, external models, or remote textures.
+### Gemini — Flash blades
+
+![Four selectable beam colours and twin-blade docking](docs/gemini_blades.gif)
+
+Black grips, silver engraved sleeves, four single-colour beam modes, and pommel-to-pommel docking.
+
+### GPT — Constellation shield
+
+![Constellation flight, hexagonal wall and sphere](docs/gpt_shield.gif)
+
+A hexagonal shield follows star points, draws a constellation trail, and unfolds into a 37-tile wall or enclosing sphere.
+
+### Claude — Session claws
+
+![Rigid white claws retracting and extending](docs/claude_claws.gif)
+
+Three full-length white claws slide into a heavy forearm case. Three straps, a palm grip and a session-limit gauge complete the prop.
+
+Open the [weapon viewer](environments/weapons_bank/index.html) locally; see its [guide](environments/weapons_bank/README.md) for transparent PNG exports and layers.
+
+## Reusable production sets
+
+| Set | Local viewer | Guide |
+| --- | --- | --- |
+| Golden Gate, day / sunset / night / dawn | [Bridge](environments/golden_gate_bank/index.html) | [Guide](environments/golden_gate_bank/README.md) |
+| Robot sea-split flight | [Action](environments/golden_gate_bank/action_viewer.html) | [Guide](environments/golden_gate_bank/ACTION_README.md) |
+| Space, data center, Alcatraz base and hangar | [Production sets](environments/golden_gate_bank/production_viewer.html) | [Guide](environments/golden_gate_bank/PRODUCTION_README.md) |
+| SF downtown, reversible destruction and parallax | [Latest city viewer](environments/sf_downtown_bank/index_v2.html) | [Guide](environments/sf_downtown_bank/README_v2.md) |
+
+![Production environments](environments/golden_gate_bank/review/production/sets_contact.jpg)
+
+Download the repository, serve its root with `python3 -m http.server 8766`, and open the desired HTML file at `http://127.0.0.1:8766/`. GitHub file pages display source rather than running the viewers. Runtime dependencies are bundled locally. Source drawings and bulk intermediate frame sequences are not included.
 
 ## Open
 
@@ -60,9 +102,7 @@ The MOV output uses the lossless QuickTime Animation codec, not ProRes. WebM car
 
 ## Repository scope
 
-This package contains only the robot code, local runtime, tools, and documentation. Rendered media are supplied separately and ignored by Git. No story-project documents, hand-drawn source files, account identifiers, personal home-directory paths, or existing Git history are included.
-
-Keep code and shot settings in version control; store bulky exports separately. This makes it easier to identify which change caused a regression and restore a known working version.
+This repository contains robot, weapon and environment viewers, reusable source modules, selected review renders and capture tools. Original drawings, personal paths and bulk intermediate frames are excluded. The private production repository remains separate.
 
 ## Third-party runtime
 

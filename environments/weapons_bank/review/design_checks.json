@@ -1,0 +1,56 @@
+{
+  "threeStraps": true,
+  "palmGrip": true,
+  "projectedPorts": true,
+  "clawsStored": true,
+  "rigidClaws": true,
+  "transparentLayers": [
+    {
+      "weapon": "gemini",
+      "layer": "solid",
+      "clear": 229217,
+      "ink": 1183,
+      "pass": true
+    },
+    {
+      "weapon": "gemini",
+      "layer": "effects",
+      "clear": 225430,
+      "ink": 4970,
+      "pass": true
+    },
+    {
+      "weapon": "gpt",
+      "layer": "effects",
+      "clear": 228919,
+      "ink": 1481,
+      "pass": true
+    },
+    {
+      "weapon": "claude",
+      "layer": "solid",
+      "clear": 214967,
+      "ink": 15433,
+      "pass": true
+    }
+  ],
+  "sparkleRecesses": true,
+  "beamModes": [
+    {
+      "beam": "red",
+      "singleColour": true
+    },
+    {
+      "beam": "yellow",
+      "singleColour": true
+    },
+    {
+      "beam": "green",
+      "singleColour": true
+    },
+    {
+      "beam": "blue",
+      "singleColour": true
+    }
+  ]
+}

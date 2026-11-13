@@ -1,0 +1,19 @@
+{
+  "mode": "verify",
+  "qa": {
+    "controlPersists": true,
+    "crossBuildPixels": true,
+    "crossBuildHomes": true,
+    "exactRepair": true,
+    "homesUnchanged": true,
+    "stableNodeCount": true,
+    "debrisAlpha": true,
+    "intactHasNoDebris": true,
+    "orthographic": true,
+    "cameraAboveTerrain": true,
+    "rollbackEndsIntact": true,
+    "storedTransforms": 5241,
+    "webglError": 0
+  },
+  "records": []
+}

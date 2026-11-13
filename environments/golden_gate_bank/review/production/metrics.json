@@ -1,0 +1,109 @@
+{
+  "mode": "stills",
+  "qa": {
+    "checks": [
+      {
+        "environment": "space",
+        "deterministic": true,
+        "stableNodes": true
+      },
+      {
+        "environment": "data_center",
+        "deterministic": true,
+        "stableNodes": true
+      },
+      {
+        "environment": "alcatraz",
+        "deterministic": true,
+        "stableNodes": true
+      }
+    ],
+    "webglError": 0
+  },
+  "records": [
+    {
+      "shot": "limb",
+      "time": 3,
+      "lighting": "sunlit",
+      "environment": "space",
+      "calls": 4,
+      "triangles": 40096
+    },
+    {
+      "shot": "orbit",
+      "time": 3,
+      "lighting": "terminator",
+      "environment": "space",
+      "calls": 4,
+      "triangles": 40096
+    },
+    {
+      "shot": "stage",
+      "time": 3,
+      "lighting": "sunlit",
+      "environment": "space",
+      "calls": 4,
+      "triangles": 40096
+    },
+    {
+      "shot": "aisle",
+      "time": 3,
+      "lighting": "normal",
+      "environment": "data_center",
+      "calls": 10,
+      "triangles": 26800
+    },
+    {
+      "shot": "low",
+      "time": 3,
+      "lighting": "alert",
+      "environment": "data_center",
+      "calls": 10,
+      "triangles": 26800
+    },
+    {
+      "shot": "crossing",
+      "time": 3,
+      "lighting": "normal",
+      "environment": "data_center",
+      "calls": 10,
+      "triangles": 26800
+    },
+    {
+      "shot": "island",
+      "time": 3,
+      "lighting": "day",
+      "gateOpen": 0.7407407407407407,
+      "environment": "alcatraz",
+      "calls": 105,
+      "triangles": 125990
+    },
+    {
+      "shot": "gate",
+      "time": 3,
+      "lighting": "night",
+      "gateOpen": 0.7407407407407407,
+      "environment": "alcatraz",
+      "calls": 99,
+      "triangles": 118198
+    },
+    {
+      "shot": "hangar",
+      "time": 3,
+      "lighting": "night",
+      "gateOpen": 0.7407407407407407,
+      "environment": "alcatraz",
+      "calls": 11,
+      "triangles": 3788
+    },
+    {
+      "shot": "dock",
+      "time": 3,
+      "lighting": "sunset",
+      "gateOpen": 0.7407407407407407,
+      "environment": "alcatraz",
+      "calls": 78,
+      "triangles": 121062
+    }
+  ]
+}

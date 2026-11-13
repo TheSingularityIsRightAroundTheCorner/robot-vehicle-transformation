@@ -1,0 +1,7 @@
+/* Artistic lighting presets. RGB triples are shader-space values. */
+window.BridgeLighting={
+ day:{label:'Day / Clear Pacific',sun:[-.4,.68,-.7],sunColor:0xfff1dc,sunPower:2.4,ambient:1.65,fill:.25,fog:0xa7cbd4,fogDensity:.00014,top:[.16,.45,.66],horizon:[.73,.85,.88],glow:[.25,.23,.16],disk:[1.,.98,.88],sea:[.025,.19,.25],reflection:[.40,.65,.71],glint:[.85,.94,1.],waterFog:[.55,.74,.79],mist:[.74,.85,.86],stars:0,towerGlow:0x000000},
+ sunset:{label:'Sunset / Golden Hour',sun:[-.45,.19,-.87],sunColor:0xffce95,sunPower:2.3,ambient:1.3,fill:0,fog:0xb2bec0,fogDensity:.00019,top:[.20,.43,.57],horizon:[.79,.77,.66],glow:[.65,.32,.12],disk:[1.,.81,.44],sea:[.035,.17,.21],reflection:[.43,.58,.60],glint:[1.,.75,.39],waterFog:[.65,.72,.72],mist:[.72,.79,.79],stars:0,towerGlow:0x000000},
+ night:{label:'Night / Coastal Beacons',sun:[-.24,.42,-.88],sunColor:0xa6c9ef,sunPower:.62,ambient:.34,fill:1.1,fog:0x182b40,fogDensity:.00023,top:[.008,.018,.055],horizon:[.065,.12,.20],glow:[.015,.035,.065],disk:[.70,.85,1.],sea:[.004,.025,.055],reflection:[.055,.14,.24],glint:[.36,.63,.91],waterFog:[.045,.09,.15],mist:[.10,.19,.29],stars:1,towerGlow:0x210905},
+ dawn:{label:'Dawn / First Light',sun:[-.68,.075,-.73],sunColor:0xffb7a2,sunPower:1.2,ambient:.76,fill:.32,fog:0xa9b0c2,fogDensity:.00025,top:[.18,.25,.43],horizon:[.84,.60,.57],glow:[.48,.18,.16],disk:[1.,.67,.52],sea:[.025,.08,.145],reflection:[.28,.34,.48],glint:[.96,.55,.48],waterFog:[.43,.48,.60],mist:[.58,.60,.72],stars:.10,towerGlow:0x080202}
+};

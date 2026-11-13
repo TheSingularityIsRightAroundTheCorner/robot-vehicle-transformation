@@ -1,0 +1,431 @@
+{
+  "mode": "stills",
+  "records": [
+    {
+      "name": "gemini_twin",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 48,
+      "triangles": 9212
+    },
+    {
+      "name": "gemini_docked",
+      "weapon": "gemini",
+      "state": "docked",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 34,
+      "triangles": 6852
+    },
+    {
+      "name": "gemini_hilts",
+      "weapon": "gemini",
+      "state": "hilts",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 34,
+      "triangles": 7356
+    },
+    {
+      "name": "claude_retracted",
+      "weapon": "claude",
+      "state": "retracted",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 102,
+      "triangles": 2322
+    },
+    {
+      "name": "claude_drawn",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "claude_complete",
+      "weapon": "claude",
+      "state": "complete",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "gpt_held",
+      "weapon": "gpt",
+      "state": "held",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 31,
+      "triangles": 22796
+    },
+    {
+      "name": "gpt_thrown",
+      "weapon": "gpt",
+      "state": "thrown",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 54,
+      "triangles": 25024
+    },
+    {
+      "name": "gpt_wall",
+      "weapon": "gpt",
+      "state": "wall",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 39,
+      "triangles": 3256
+    },
+    {
+      "name": "gpt_sphere",
+      "weapon": "gpt",
+      "state": "sphere",
+      "progress": 1,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 45,
+      "triangles": 7608
+    },
+    {
+      "name": "gemini_twin_front",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "front",
+      "layer": "beauty",
+      "drawCalls": 48,
+      "triangles": 9212
+    },
+    {
+      "name": "gemini_twin_back",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "back",
+      "layer": "beauty",
+      "drawCalls": 48,
+      "triangles": 9212
+    },
+    {
+      "name": "gemini_hilts_front",
+      "weapon": "gemini",
+      "state": "hilts",
+      "progress": 0.65,
+      "view": "front",
+      "layer": "beauty",
+      "drawCalls": 34,
+      "triangles": 7356
+    },
+    {
+      "name": "claude_drawn_front",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.65,
+      "view": "front",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "claude_drawn_side",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.65,
+      "view": "side",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "claude_drawn_back",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.65,
+      "view": "back",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "claude_drawn_top",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.65,
+      "view": "top",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "claude_drawn_low",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.65,
+      "view": "low",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "gpt_held_front",
+      "weapon": "gpt",
+      "state": "held",
+      "progress": 0.65,
+      "view": "front",
+      "layer": "beauty",
+      "drawCalls": 31,
+      "triangles": 22796
+    },
+    {
+      "name": "gpt_held_back",
+      "weapon": "gpt",
+      "state": "held",
+      "progress": 0.65,
+      "view": "back",
+      "layer": "beauty",
+      "drawCalls": 31,
+      "triangles": 22796
+    },
+    {
+      "name": "gpt_held_top",
+      "weapon": "gpt",
+      "state": "held",
+      "progress": 0.65,
+      "view": "top",
+      "layer": "beauty",
+      "drawCalls": 31,
+      "triangles": 22796
+    },
+    {
+      "name": "gpt_held_low",
+      "weapon": "gpt",
+      "state": "held",
+      "progress": 0.65,
+      "view": "low",
+      "layer": "beauty",
+      "drawCalls": 31,
+      "triangles": 22796
+    },
+    {
+      "name": "gemini_color_red",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 48,
+      "triangles": 9212
+    },
+    {
+      "name": "gemini_color_yellow",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 48,
+      "triangles": 9212
+    },
+    {
+      "name": "gemini_color_green",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 48,
+      "triangles": 9212
+    },
+    {
+      "name": "gemini_color_blue",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 48,
+      "triangles": 9212
+    },
+    {
+      "name": "claude_half_drawn",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.14,
+      "view": "side",
+      "layer": "beauty",
+      "drawCalls": 108,
+      "triangles": 2490
+    },
+    {
+      "name": "gemini_twin_solid",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "solid",
+      "drawCalls": 20,
+      "triangles": 4996
+    },
+    {
+      "name": "gemini_twin_effects",
+      "weapon": "gemini",
+      "state": "twin",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "effects",
+      "drawCalls": 28,
+      "triangles": 6852
+    },
+    {
+      "name": "claude_complete_solid",
+      "weapon": "claude",
+      "state": "complete",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "solid",
+      "drawCalls": 95,
+      "triangles": 1142
+    },
+    {
+      "name": "gpt_thrown_effects",
+      "weapon": "gpt",
+      "state": "thrown",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "effects",
+      "drawCalls": 48,
+      "triangles": 25024
+    },
+    {
+      "name": "gpt_sphere_guide",
+      "weapon": "gpt",
+      "state": "sphere",
+      "progress": 1,
+      "view": "three_quarter",
+      "layer": "guide",
+      "drawCalls": 4,
+      "triangles": 672
+    },
+    {
+      "name": "gemini_trace",
+      "weapon": "gemini",
+      "state": "docked",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 34,
+      "triangles": 6852
+    },
+    {
+      "name": "claude_trace",
+      "weapon": "claude",
+      "state": "drawn",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 101,
+      "triangles": 1310
+    },
+    {
+      "name": "gpt_trace",
+      "weapon": "gpt",
+      "state": "held",
+      "progress": 0.65,
+      "view": "three_quarter",
+      "layer": "beauty",
+      "drawCalls": 24,
+      "triangles": 21616
+    }
+  ],
+  "qa": {
+    "checks": [
+      {
+        "weapon": "gemini",
+        "state": "twin",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gemini",
+        "state": "docked",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gemini",
+        "state": "hilts",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "claude",
+        "state": "retracted",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "claude",
+        "state": "drawn",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "claude",
+        "state": "complete",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "held",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "thrown",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "wall",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      },
+      {
+        "weapon": "gpt",
+        "state": "sphere",
+        "deterministic": true,
+        "stableNodes": true,
+        "finiteGeometry": true
+      }
+    ],
+    "webglError": 0
+  },
+  "errors": []
+}
